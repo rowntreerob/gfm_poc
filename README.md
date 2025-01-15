@@ -5,4 +5,4 @@ Notebooks provide documentation, special code-execution cells, allowing beginner
   
 Open chrome browser, using the link to view the project as presented in a notebook. 
   
-- 	[V2.ipynb](https://colab.research.google.com/github/rowntreerob/gfm_poc/blob/master/V2.ipynb) 
+- 	[gfm-from-audio](https://colab.research.google.com/github/rowntreerob/gfm_poc/blob/master/audio_to_gfm.ipynb) 
